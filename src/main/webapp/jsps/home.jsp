@@ -4,13 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Pankaj Technologies- Home Page</title>
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Farziwada. Ph No: +91-+91 82695 98716 ,+91-9980923216 dilipo,Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to maharashtra. Ph No: +91-+91 8983795200 ,+91-9980923216  </h1>
+<h1 align="center"> Pankaj Technologies- Very Good Training center for DevOps with AWS in Pune India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,21 +33,19 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
-		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
-		Bangalore,
+		Pankaj Technologies, 
+		Ram Bhandar, Above ICICI Bank, Beside Meghana Foods,
+		Pune,
 		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		devopstrainingpgt@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:devopstrainingpgt@gmail.com">Mail to Pankaj Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
-
+<p align=center>Pankaj Technologies - Consultant, Training, Development Center.</p>
 </body>
 </html>
